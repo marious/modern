@@ -1,0 +1,29 @@
+Home Page
+    -- slider
+    -- some highlights of products/serivces
+
+Registration page
+    -- allow users to register
+    -- collect
+        -- first name
+        -- last name
+        -- email
+        -- password
+
+Login page
+    -- allow users to log in with email/password
+
+About page
+    -- some info about the company
+    -- display page from the database
+
+testimonials page
+    -- display customer Testimonials
+    -- allow logged in users to post Testimonials
+    -- testimonials consists of title $ text
+
+
+
+
+
+php vendor/robmorgan/phinx/bin/phinx init   (solution of phinx on windows)

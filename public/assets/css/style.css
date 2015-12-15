@@ -1,0 +1,63 @@
+body {
+    padding-top: 50px;
+    margin-bottom: 60px;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+.empty-well {
+    background: transparent;
+}
+
+.bigger-icon {
+    font-size: 48px;
+}
+
+.carousel img {
+    height: 500px !important;
+    width: 100%;
+}
+
+ul.alert li {
+    list-style: none;
+    line-height: 1.7em;
+}
+
+.error {
+    color: red;
+    padding-top: 3px;
+}
+
+.push-down {
+  margin-top: 20px;
+}
+
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+
+/* admin classes */
+.admin-hidden {
+  display: none;
+}
+.admin-display {
+  display: inline-block;
+}
+.outlined {
+  border: 1px solid red;
+}
